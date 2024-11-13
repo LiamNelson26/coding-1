@@ -1,0 +1,1 @@
+String concatenation is taking more than 1 string and linking them together.
