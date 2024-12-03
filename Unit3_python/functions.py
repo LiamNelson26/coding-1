@@ -35,3 +35,70 @@ def sandwichInstructions():
 
 # this is a function call
 sandwichInstructions()
+
+# 11/20/24
+
+# funtions using arithmetic operators
+
+def depositMoney(x):
+    checkingAccount = 100
+    print('money has been deposited successfully')
+    print('new checking account balance is below: ')
+    print(x + checkingAccount)
+
+# depositMoney(35)
+# depositMoney(200)
+# depositMoney(95)
+
+#def withdrawMoney():
+    
+#def checkAccountBalance():
+
+#def transferMoney():
+
+def depositMoney(X)
+    depositMoney: 260
+    print('money has been deposited successfully')
+    print('new checking account balance is below: ')
+    print(x + checkingAccount)
+
+withdrawMoney(200)
+
+def checkAccount():
+    checkAccount = 1000
+    print('here is your current check account balance:')
+    print(checkAccount)
+
+checkAccountBalance()
+
+
+# built-in functions
+'The instructions for our function is already written into the system.'
+print()
+input()
+
+int(100)
+str()
+float()
+
+
+# user: defined functions
+'We as engineers write the instructions for our program step by step.'
+
+def welcomeMessage():
+    name= input("please type in your name: "
+    print('Hello, Welcome back to school, ' + name )
+
+def sandwich():
+    print('step 2 put it together')
+    print('step 1 get ingredients')
+    welcomeMessage-
+
+welcomeMessage()
+
+OrderTurkeySandwich()
+Order Yams()
+OrderGreens()
+Order MacnCheese()
+Order Stuffing()
+Order Cranberry()
