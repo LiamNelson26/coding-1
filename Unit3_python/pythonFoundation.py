@@ -32,13 +32,13 @@ number2=800
 print(number1, number2)
 
 name = 'my name is Liam'
-activity ='1 am going to trick or treting.'
+activity ='1 am going to trick or treating.'
 time='I will do this at 8pm'
 print(name + activity + time)
 
 # camel Case= every new word starts with a capital letter
 # the letter are supposed to resemble a camels hump
-homeAdress= '123 Main street'
+homeAdress= '123 Main Street'
 telephoneNumber= 5555555555
 telephoneBillPaid= False
 balance = 300.00

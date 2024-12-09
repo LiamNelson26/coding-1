@@ -1,0 +1,5 @@
+def my_function(Names):
+    print("Mail")
+    print("Ile)
+    print("Yllek)
+    print("Yram)
