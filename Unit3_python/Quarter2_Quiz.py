@@ -25,8 +25,23 @@ def passwordLength(long,short):
         print('Sorry, this password is too short.')
         print(str(long)+short)
 
-
 passwordLength(long,short)
 
 # 9.
+
+def taxIncome(amount, taxes):
+    if income == '10,000.00':
+        print('You are taxed 10%, plus an additional 3% for the state.')
+    elif income == '30000.00':
+        print('You are taxed 12%, plus an additional 3% for the state.')
+    elif income == '60000':
+        print('You are taxed 22%, plus an additional 3% for the state.')
+    else:
+        print('You are taxed 23%, plus an additional 3% for the state.')
+
+taxIncome(amount, taxes)
+
+# 10. 
+
+
 
