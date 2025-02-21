@@ -27,7 +27,7 @@ def passwordLoops():
 passwordLoops()
 
 # passwordLoops()
-# 
+ 
 def inventoryLoop():
     userInventory =[] 
     pickupItem= input('what item are you picking up?: ')

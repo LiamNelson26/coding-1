@@ -11,7 +11,7 @@ print(len(collegeTitles))
 
 
 def gradeToTitle():
-    # input is a buildt-in function that lets us pass data into our
+    # input is a built-in function that lets us pass data into our
     # program AS STRINGS.
 
     # int() is also a built in function that transforms anything inside 
@@ -41,11 +41,11 @@ def gradeToTitle():
 
 gradeToTitle(year)
 
-# A laist is a data type for collecting
+# A list is a data type for collecting
 # and organizing other data types.
 
 # we create a list by giving it a variable name and using
-# the square brackt to place the data inside of
+# the square bracket to place the data inside of
 
 listB = [10, 102, 4984]
 

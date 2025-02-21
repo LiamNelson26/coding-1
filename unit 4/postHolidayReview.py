@@ -39,7 +39,7 @@ def checkSubscription( userDueDate, userMoneyInAccount):
         print('subscription is paid- auto withdraw payment.')
     else: 
         print('payment is not due yet.')
-# functinn call - tells the computer tolls the computer to run our instructions
+# function call - tells the computer tolls the computer to run our instructions
 
 checkSubscription(7. False)
 

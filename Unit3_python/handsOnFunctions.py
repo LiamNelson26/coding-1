@@ -11,6 +11,9 @@
 
 # parameter = placeholder for data
 
+from os import name
+
+
 def modifyMyName():
     print('your new modified name is the great '+ name)
 
